@@ -15,7 +15,7 @@ prob.setup()
 # 2 ---------- (marker for docs)
 # Initialize variables for NREL CSM
 prob["machine_rating"] = 5000.0
-prob["rotor_diameter"] = 126.0
+prob["rotor_diameter"] = 150.0
 prob["turbine_class"] = 2
 prob["tower_length"] = 90.0
 prob["blade_number"] = 3
